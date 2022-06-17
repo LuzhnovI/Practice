@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\MathFig\bin\Debug\MathFig.exe.config
+C:\Users\user\Desktop\MathFig\bin\Debug\MathFig.exe
+C:\Users\user\Desktop\MathFig\bin\Debug\MathFig.pdb
+C:\Users\user\Desktop\MathFig\obj\Debug\MathFig.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MathFig\obj\Debug\MathFig.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MathFig\obj\Debug\MathFig.exe
+C:\Users\user\Desktop\MathFig\obj\Debug\MathFig.pdb
