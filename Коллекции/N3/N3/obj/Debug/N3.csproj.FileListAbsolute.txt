@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\N3\N3\bin\Debug\N3.exe.config
+C:\Users\user\Desktop\N3\N3\bin\Debug\N3.exe
+C:\Users\user\Desktop\N3\N3\bin\Debug\N3.pdb
+C:\Users\user\Desktop\N3\N3\obj\Debug\N3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\N3\N3\obj\Debug\N3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\N3\N3\obj\Debug\N3.exe
+C:\Users\user\Desktop\N3\N3\obj\Debug\N3.pdb
