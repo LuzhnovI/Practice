@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -34,11 +34,15 @@ namespace N1
     }
     class Program
     {
+        
         static void Main(string[] args)
         {
             List<Bandits> bandits = new List<Bandits>() { new Bandits("Василич", true, 189.9, 87.7, "европиоид"), new Bandits("Кузьмич", false, 180.6, 84.1, "европиоид"), new Bandits("Жан Матьё", false, 180.6, 84.1, "азиат") };
-            List<Bandits> free = 
-            foreach (Bandits i in )
+            foreach (Bandits i in from b in bandits where !b.arrest select b)
+            {
+                Console.WriteLine(i.ToString());
+            }
+            Console.ReadKey();
         }
     }
 }
