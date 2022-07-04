@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Работа с LINQ\N5\N5\bin\Debug\N5.exe.config
+C:\Users\user\Desktop\Работа с LINQ\N5\N5\bin\Debug\N5.exe
+C:\Users\user\Desktop\Работа с LINQ\N5\N5\bin\Debug\N5.pdb
+C:\Users\user\Desktop\Работа с LINQ\N5\N5\obj\Debug\N5.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Работа с LINQ\N5\N5\obj\Debug\N5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Работа с LINQ\N5\N5\obj\Debug\N5.exe
+C:\Users\user\Desktop\Работа с LINQ\N5\N5\obj\Debug\N5.pdb

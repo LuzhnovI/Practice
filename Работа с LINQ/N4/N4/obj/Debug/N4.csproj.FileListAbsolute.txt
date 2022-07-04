@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Работа с LINQ\N4\N4\bin\Debug\N4.exe.config
+C:\Users\user\Desktop\Работа с LINQ\N4\N4\bin\Debug\N4.exe
+C:\Users\user\Desktop\Работа с LINQ\N4\N4\bin\Debug\N4.pdb
+C:\Users\user\Desktop\Работа с LINQ\N4\N4\obj\Debug\N4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Работа с LINQ\N4\N4\obj\Debug\N4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Работа с LINQ\N4\N4\obj\Debug\N4.exe
+C:\Users\user\Desktop\Работа с LINQ\N4\N4\obj\Debug\N4.pdb
